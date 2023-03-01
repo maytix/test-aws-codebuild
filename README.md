@@ -1,0 +1,7 @@
+# test-aws-codebuild
+quick repo to test aws CodeBuild
+
+
+Master Branch Status:
+
+![](https://codebuild.us-west-2.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoiMi9hNWxvckwveWZlOWF5MkNXeXd0OTgzSTcwVFRBRU9UaFRuSzAyNjFkUndTQ3d6dG5JNm9LMm1FSGQ5WVQyR1hOWmZhbjdxUlN6TFdxY2drTFRPSlZBPSIsIml2UGFyYW1ldGVyU3BlYyI6InFOTnAxekxabGlZR3lXZ3YiLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=master)
